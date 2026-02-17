@@ -1,15 +1,15 @@
 FYIT Practicals Repository
 
 ## Student Details
-Name: Vidula Kshirsagar
-Class: FYIT F
-Roll No:25302F0016
+Name: Vidula Kshirsagar <br>
+Class: FYIT F <br>
+Roll No:25302F0016 <br>
 
 ## Subject Name
 Object Oriented Programming (C++)
 
 ## Practicals Included
-Practical 01: Addition of Two Time Objects using Operator Overloading
+Practical 01: Addition of Two Time Objects using Operator Overloading <br>
 Practical 02: String Concatenation using Operator Overloading
 
 ## Steps to Run
